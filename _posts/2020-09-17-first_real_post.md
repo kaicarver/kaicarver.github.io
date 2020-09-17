@@ -11,3 +11,5 @@ My idea is to
 - give a real example, which may just be discussion of cats and dogs and alligators
 
 It's just to get my feet wet, and I need to do more studying, not spend too long on blogging.
+
+So I'll start by showing my first notebook.
