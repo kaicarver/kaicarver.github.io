@@ -43,5 +43,6 @@ I'm afraid I am still having trouble finding a good environment to run in, and n
 
 I'll write more tomorrow.
 
-PS: Here's a link to a notebook with my tests on this dog and cat recognizer:
-[https://console.paperspace.com/kaicarver/notebook/prewwejqi](https://console.paperspace.com/kaicarver/notebook/prewwejqi)
+PS: Here's are links to the notebook with my tests on this dog and cat recognizer:
+[on Paperspace Gradient](https://console.paperspace.com/kaicarver/notebook/prewwejqi) (may not be the latest one?) or
+[on GitHub](https://github.com/kaicarver/fastaixp/blob/master/01%20Kai's%20first%20fast.ai%20experiment.ipynb).
