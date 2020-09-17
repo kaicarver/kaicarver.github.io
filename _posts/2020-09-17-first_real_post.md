@@ -42,3 +42,6 @@ I'd like to write more and give details about my cats and dogs and... alligators
 I'm afraid I am still having trouble finding a good environment to run in, and now I've run out of time.
 
 I'll write more tomorrow.
+
+PS: Here's a link to a notebook with my tests on this dog and cat recognizer:
+https://console.paperspace.com/kaicarver/notebook/prewwejqi
