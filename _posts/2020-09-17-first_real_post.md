@@ -1,20 +1,18 @@
-# First real post?
+# First experiment: cats and dogs
 
-This is supposed to be my first real post.
+This is supposed to be my first real post about fast.ai after playing around with this nice blogging software.
 
-Working on it...
+My original idea was to:
 
-My idea is to 
+- introduce myself briefly
+- talk briefly about setting up to run AI experiments
+- give a real example matching a lesson in the book
 
-- introduce myself very briefly
-- talk briefly about setting up
-- give a real example, which may just be discussion of cats and dogs and alligators
+But I'm just going to get my feet wet, and I need to do more studying, not spend too long on blogging.
 
-It's just to get my feet wet, and I need to do more studying, not spend too long on blogging.
+So I'll skip the introductions and start by just showing my first bit of code.
 
-So I'll start by showing my first notebook.
-
-This is the example from chapter 1: a dog and cat recognizer in 15 lines of code!
+This is the example from chapter 1: an AI dog and cat recognizer in only 15 lines of code!
 
 ```python
 from fastai.vision.all import *
@@ -39,3 +37,8 @@ print(f"Is this a cat?: {is_cat}.")
 print(f"Probability it's a cat: {probs[1].item():.6f}")
 ```
 
+I'd like to write more and give details about my cats and dogs and... alligators experiments but...
+
+I'm afraid I am still having trouble finding a good environment to run in, and now I've run out of time.
+
+I'll write more tomorrow.
