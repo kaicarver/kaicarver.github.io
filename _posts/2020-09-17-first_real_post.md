@@ -44,4 +44,4 @@ I'm afraid I am still having trouble finding a good environment to run in, and n
 I'll write more tomorrow.
 
 PS: Here's a link to a notebook with my tests on this dog and cat recognizer:
-https://console.paperspace.com/kaicarver/notebook/prewwejqi
+[https://console.paperspace.com/kaicarver/notebook/prewwejqi](https://console.paperspace.com/kaicarver/notebook/prewwejqi)
