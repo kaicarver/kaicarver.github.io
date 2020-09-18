@@ -28,4 +28,12 @@ https://www.freecodecamp.org/news/the-ultimate-guide-to-web-scraping-with-node-j
 
 Stop the presses!
 
+This page lets you test out the Bing API and see results as images, and also get a JSON version. Maybe I can use that.
+
 https://azure.microsoft.com/en-us/services/cognitive-services/bing-image-search-api/
+
+ah but it only returns 35 results per request...
+
+OK so back to using duckduckgo, in a browser to avoid the limited amount returned when using curl, zoom out to 33%, scroll down a bit, should be displaying enough images, then Right-click Inspect, then right click html tag, Copy, Copy outerHTML, then paste that into a file.
+
+OK I have three HTML files, back to parsing them...
