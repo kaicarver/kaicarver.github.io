@@ -26,4 +26,6 @@ OK I ended up in Javascript with this nice tutorial:
 
 https://www.freecodecamp.org/news/the-ultimate-guide-to-web-scraping-with-node-js-daa2027dcd3/
 
+Stop the presses!
 
+https://azure.microsoft.com/en-us/services/cognitive-services/bing-image-search-api/
