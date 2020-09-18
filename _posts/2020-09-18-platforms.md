@@ -28,3 +28,13 @@ Several topics:
 My choice so far is Gradient Paperspace. It works, free instances are available sometimes, and anyway we get a 15-dollar credit as fast.ai students.
 
 I "upgraded" by paying 8 dollars a month, because I was a bit confused and thought it might make things easier for me. But as far as I can tell this does nothing for me, since I currently don't need private instances. I'd be happy to hear from others on this.
+
+speed:
+
+K80 pretty fast, and pre-emptible version is cheaper
+
+Free-P5000 very fast!
+
+No GPU: doesn't work!
+
+Google Colab: very slow, I suppose there are faster options if you pay?
