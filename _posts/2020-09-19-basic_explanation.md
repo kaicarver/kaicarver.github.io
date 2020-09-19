@@ -28,3 +28,5 @@ is_cat,_,probs = learn.predict(my_img)
 print(f"Is this a cat?: {is_cat}.")
 print(f"Probability it's a cat: {probs[1].item():.6f}")
 ```
+
+(to be continued)
