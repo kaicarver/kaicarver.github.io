@@ -8,11 +8,10 @@ My original idea was to:
 - talk briefly about setting up to run AI experiments
 - give a real example matching a lesson in the book
 
-But I'm just going to get my feet wet, and I need to do more studying, not spend too long on blogging.
+But I'm just going to skip the introductions and start by just showing my first bit of code.
 
-So I'll skip the introductions and start by just showing my first bit of code.
-
-This is the example from chapter 1: an AI dog and cat recognizer in only 15 lines of code!
+This is the classic example from [chapter 1 of the fast.ai book](https://github.com/fastai/fastbook/blob/master/01_intro.ipynb): 
+an AI dog and cat recognizer in only 15 lines of code!
 
 ```python
 from fastai.vision.all import *
@@ -37,12 +36,12 @@ print(f"Is this a cat?: {is_cat}.")
 print(f"Probability it's a cat: {probs[1].item():.6f}")
 ```
 
-I'd like to write more and give details about my cats and dogs and... alligators experiments but...
+I'd like to write some explanation and give details about my cats and dogs (and... alligators) experiments, but...
 
-I'm afraid I am still having trouble finding a good environment to run in, and now I've run out of time.
+I'm still having trouble finding a good environment to run in, and I've run out of time for blogging today.
 
-I'll write more tomorrow.
+I'll write more about cats and dogs and environments... in the coming days.
 
-PS: Here's are links to the notebook with my tests on this dog and cat recognizer:
-[on Paperspace Gradient](https://console.paperspace.com/kaicarver/notebook/prewwejqi) (may not be the latest one?) or
-[on GitHub](https://github.com/kaicarver/fastaixp/blob/master/01%20Kai's%20first%20fast.ai%20experiment.ipynb).
+At least here's a link to [my notebook on GitHub](https://github.com/kaicarver/fastaixp/blob/master/01%20Kai's%20first%20fast.ai%20experiment.ipynb) showing some of my tests on this dog and cat recognizer.
+
+There's also [this notebook on Paperspace Gradient](https://console.paperspace.com/kaicarver/notebook/prewwejqi), the environment that I use, but it's an old one, and I don't quite understand how to properly share notebooks on Gradient.
