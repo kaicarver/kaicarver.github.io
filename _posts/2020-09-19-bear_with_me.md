@@ -13,7 +13,7 @@ That gives me an infinitely scrolling page of nice grizzly bear pictures. I need
 I can download at least the beginning of this 
 
 ```bash
-curl "https://duckduckgo.com/?q=grizzly+bear&t=brave&iax=images&ia=images" > gri.html
+curl "https://duckduckgo.com/?q=grizzly+bear&t=brave&iax=images&ia=images" > grizzly_bear.html
 ```
 
 But that's a big pile of pretty unreadable HTML all in one line. I could try prettifying it and then grepping through it, but...
