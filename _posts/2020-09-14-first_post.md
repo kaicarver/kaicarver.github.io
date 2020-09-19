@@ -16,4 +16,4 @@ Here is more information about the two fast.ai blogging tools:
 
 Under the hood, both blogs are hosted with [GitHub Pages](https://pages.github.com/) and use [Jekyll, the simple, blog-aware, static web site generator by Tom Preston-Werner, GitHub's co-founder](https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll) (as he described in ["Blogging Like a Hacker"](https://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html) back in 2008).
 
-![Image of fast.ai logo](images/logo.png)
+![Image of fast.ai logo](/images/logo.png)
