@@ -43,10 +43,27 @@ No GPU: doesn't work!
 
 ## Colab
 
-very slow, I suppose there are faster options if you pay?
+instructions here:
+[https://course.fast.ai/start_colab.html](https://course.fast.ai/start_colab.html)
+
+the instructions say:
+
+> in some places we use a file upload button, which is also not supported by Colab
+
+I found the upload widget works fine on Colab
+
+I initially wrote:
+
+> very slow, I suppose there are faster options if you pay?
+
+but if I had read the instructions properly
+
+> Select ‘GPU’ from the menu and click ‘Save’.
 
 ## My own PC
 
 I currently don't have a GPU on my own PC, so key libraries cannot work.
 
 Much more could be said, but in conclusion, Paperspace is the way to go for me for now!
+
+Update: now that I figured out the GPU part, when I have too much trouble with getting a free Paperspace, I use Colab. 
