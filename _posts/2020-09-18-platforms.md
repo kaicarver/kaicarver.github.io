@@ -39,7 +39,9 @@ K80 pretty fast, and pre-emptible version is cheaper
 
 Free-P5000 very fast!
 
-No GPU: doesn't work!
+No GPU: doesn't work, i.e., doesn't even run!
+
+(that's odd, I ran on platforms in the cloud that still seemed to run, just very slowly... Isn't there a graceful descent into a slower but still functioning option if you don't have a GPU?)
 
 ## Colab
 
